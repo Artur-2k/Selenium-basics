@@ -77,12 +77,10 @@ sudo apt install python3-pip
 
   Example:
   
-    ```
     from selenium import webdriver
   
     # Update the path to your GeckoDriver executable
     driver = webdriver.Firefox(executable_path='/path/to/geckodriver')
-    ```
 
 ## Usage
 
